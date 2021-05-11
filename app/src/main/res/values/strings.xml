@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name</string>
+    <string name="hp">Mobile Number</string>
+    <string name="group">Group Size</string>
+    <string name="opt1">Smoking </string>
+    <string name="opt2">Non-smoking</string>
+    <string name="bConfirm">CONFIRM</string>
+    <string name="bReset">RESET</string>
+    <string name="display"></string>
+
+</resources>
