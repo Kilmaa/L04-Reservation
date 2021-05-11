@@ -5,8 +5,10 @@
     <string name="group">Group Size</string>
     <string name="opt1">Smoking </string>
     <string name="opt2">Non-smoking</string>
-    <string name="bConfirm">CONFIRM</string>
-    <string name="bReset">RESET</string>
-    <string name="display"></string>
+    <string name="btnConfirm">CONFIRM</string>
+    <string name="btnReset">RESET</string>
+    <string name="dName"></string>
+    <string name="dPhone"></string>
+    <string name="dResult"></string>
 
 </resources>
